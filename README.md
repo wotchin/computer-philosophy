@@ -1,2 +1,4 @@
 # computer-philosophy
-Computer philosophy(CP), 计算机哲学
+
+Computer philosophy\(CP\), 计算机哲学
+
